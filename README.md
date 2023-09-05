@@ -1,5 +1,1 @@
-# LearningGit
-
----
-
-This repository is created for teaching purpose only.
+## This repository is created for teaching purpose only.
